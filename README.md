@@ -7,6 +7,7 @@ Software:Google colab
 Python libraries: Numpy,Matplotlib
 
 PROGRAM:
+~~~~
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, filtfilt
@@ -74,7 +75,7 @@ plt.grid()
 
 plt.tight_layout()
 plt.show()
-
+~~~~
 OUTPUT WAVEFORM:
 ![DC(4)](https://github.com/user-attachments/assets/e8ee2798-1868-46df-b513-4fa9fe2c9950)
 
